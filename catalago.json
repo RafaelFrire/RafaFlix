@@ -1,0 +1,83 @@
+[
+    {
+        "id":0 ,
+        "moviename":"la casa de papel" ,
+        "img": "https://img.elo7.com.br/product/zoom/1DBE531/big-poster-da-serie-la-casa-de-papel-tamanho-90x-0-cm-lo003-cartaz.jpg"
+    },
+
+    {
+        "id":1 ,
+        "moviename":"spider-man" ,
+        "img": "https://imgs.search.brave.com/ZceHpCVzWz6p7fTt8ADlsgKHGri20PdSK7Pkkg5ceFc/rs:fit:1000:1200:1/g:ce/aHR0cHM6Ly93d3cu/dGhlbW92aWVkYi5v/cmcvdC9wL29yaWdp/bmFsL3Z1emZqcGhz/RlZ5YWYwNE9ocklP/blM2dlNwdS5qcGc"
+    },
+
+    {
+        "id":2 ,
+        "moviename":"harry potter" ,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_913914-MLB47710496295_092021-O.jpg"
+    },
+
+    {
+        "id":3 ,
+        "moviename":"pantera-negra" ,
+        "img": "https://imgs.search.brave.com/8iDCVFX0pLOr4C7qFWDS84SYzdAIpZI7ReMT_h29-rA/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pbWFn/ZS50bWRiLm9yZy90/L3Avb3JpZ2luYWwv/MnlRVW5wYzFCWGdl/c0pyZmNkb1JhNmpU/QW5BLmpwZw"
+    },
+
+    {
+        "id":4 ,
+        "moviename":"indiana jones" ,
+        "img": "https://imgs.search.brave.com/wBWQqQ3ZjceYdAikUm8qIpIZ4Kl9GDtDr9s_vM24y00/rs:fit:1066:1200:1/g:ce/aHR0cHM6Ly8zLmJw/LmJsb2dzcG90LmNv/bS8tMng5VzVSeldu/TVEvVmlFTVpHLVlY/OEkvQUFBQUFBQUI3/VmcvMzdROFRLOUF3/YUkvczE2MDAvMTJf/ZTFobzYxVS5qcGc"
+    },
+
+    {
+        "id":5 ,
+        "moviename":"john wick 2" ,
+        "img": "https://imgs.search.brave.com/SuiHMvns8XW9YkFTJwmMidY8_QoFGsXR6LYN3zdNNGE/rs:fit:758:1076:1/g:ce/aHR0cHM6Ly93d3cu/ZGVzaWduZXJkLmNv/bS5ici93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMS8wNy9jYXJ0/YXplcy1kZS1maWxt/ZXMtZXN0cmFuZ2Vp/cm9zLXJlY3JpYWRv/cy1jb20tYXRvcmVz/LWJyYXNpbGVpcm9z/LXBvci1iZXRvLXZp/ZWlyYS03LTc1OHgx/MDc2LmpwZw"
+    },
+
+
+    {
+        "id":6 ,
+        "moviename":"Iron-Man" ,
+        "img": "https://static.tudointeressante.com.br/uploads/2014/09/remake_cartazes16.jpg"
+    },
+
+
+    {
+        "id":7 ,
+        "moviename":"A feiticiera" ,
+        "img": "https://www.designerd.com.br/wp-content/uploads/2021/07/cartazes-de-filmes-estrangeiros-recriados-com-atores-brasileiros-por-beto-vieira-6-scaled.jpg"
+    },
+
+
+    {
+        "id":8 ,
+        "moviename":"Fantasticos Beasts" ,
+        "img": "https://i.pinimg.com/236x/e5/87/be/e587be3c42f3af392db81996f3884068.jpg"
+    },
+
+
+    {
+        "id":9 ,
+        "moviename":"KILL BILL" ,
+        "img": "https://www.designerd.com.br/wp-content/uploads/2021/07/cartazes-de-filmes-estrangeiros-recriados-com-atores-brasileiros-por-beto-vieira-1.jpg"
+    },
+
+    {
+        "id":10 ,
+        "moviename":"Trading Places" ,
+        "img": "https://i.pinimg.com/236x/21/7c/cb/217ccb0be1f21e349bedabdb07e6079b.jpg"
+    },
+
+
+    {
+        "id":11 ,
+        "moviename":"Poderoso Chefão" ,
+        "img": "https://imagens.publicocdn.com/imagens.aspx/745737?tp=KM"
+    }
+
+
+]
+
+
+
